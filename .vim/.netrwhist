@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/patrick/WebstormProjects/landlubber/.git'
+let g:netrw_dirhist_2='/Users/patrick/WebstormProjects/landlubber'
+let g:netrw_dirhist_3='/Applications/AMPPS/www/Lab7/Lab 7/Common'
